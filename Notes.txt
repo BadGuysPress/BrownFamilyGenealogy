@@ -1,0 +1,3 @@
+If you resave this document through word, re-add this CSS to the body:
+
+max-width:60rem;margin:2rem auto 2rem auto
