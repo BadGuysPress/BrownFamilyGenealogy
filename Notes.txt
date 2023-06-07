@@ -3,4 +3,4 @@ If you resave this document through word, re-add this CSS to the body:
 max-width:60rem;margin:2rem auto 2rem auto
 
 Set encoding to UTF-8 in Word under Options -> Advanced -> Web Options (near bottom) -> Encoding
-Save As Web Page, Filtered
+Save As Web Page, Filtered 
